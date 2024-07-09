@@ -9,25 +9,15 @@ With a strong foundation in network administration, user support, software devel
 ## I am always learning and growing:
 Eager to contribute to open-source projects and collaborate with the developer community.
 
-
-
 ## Technical Skills:
 
-## 1. Programming Languages:
-Python, Java, JavaScript (ReactJS, NodeJS), C/C++, VB.NET, PHP, PL/SQL
-## 2. Databases: 
-SQL, Advanced Database Management
-## 3. Networking: 
-Enterprise Networking, Cisco Certified Network Associate Routing and Switching (CCNA)
-## 4. Cloud: 
-Cloud Foundry
-## 5. Version Control: 
-Git (GitHub)
-## 6. Design: 
-Graphic Design (UI/UX)
+1. Programming Languages:Python, Java, JavaScript (ReactJS, NodeJS), C/C++, VB.NET, PHP, PL/SQL
+2. Databases: SQL, Advanced Database Management
+3. Networking: Enterprise Networking, Cisco Certified Network Associate Routing and Switching (CCNA)
+4. Cloud: Cloud Foundry
+5. Version Control: Git (GitHub)
+6. Design: Graphic Design (UI/UX)
 
-
- 
 ## Education:
 
 ## Vaal University of Technology, Vanderbijlpark, South Africa (2017-2023)
