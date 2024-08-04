@@ -7,7 +7,7 @@ IT Grad | Software Engineer | UX Designer | Graphics Designer | Database Adminis
 * 🌍  I'm based in South Africa, Johannesburg
 * ✉️  You can contact me at [216135982@edu.vut.ac.za](mailto:216135982@edu.vut.ac.za)
 * 🧠  I'm learning Software Engineering
-* 🤝  I'm open to collaborating on Software Development and Open Source Projects
+* 🤝  I'm open to collaborating on Software Development and Open Source Project
 
 <a href="https://www.github.com/Tinyu01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Tinyu01?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.x.com/TheFreelancer20" target="_blank" rel="noreferrer"><img
@@ -44,8 +44,8 @@ src="https://img.shields.io/twitch/status/tinyuo1?logo=twitchsx&style=for-the-ba
 <div width="100%" align="center"><a href="https://github.com/Tinyu01/github_account_info" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tinyu01&repo=github_account_info&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Tinyu01/alx-low_level_programming" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tinyu01&repo=alx-low_level_programming&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
-
 <div width="100%" align="center"><a href="https://github.com/Tinyu01/alx-higher_level_programming" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tinyu01&repo=alx-higher_level_programming&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Tinyu01/Full_Stack_Html" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tinyu01&repo=Full_Stack_Html&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>
+
 
 <br /><br /><br /><br /><br /><br />
 
