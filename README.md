@@ -37,18 +37,22 @@ src="https://img.shields.io/twitch/status/tinyuo1?logo=twitchsx&style=for-the-ba
 
 <a href="http://www.github.com/Tinyu01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tinyu01&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<a href="https://github.com/Tinyu01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinyu01&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Tinyu01/github_account_info" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tinyu01&repo=github_account_info&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Tinyu01/github_account_info" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tinyu01&repo=github_account_info&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Tinyu01/alx-low_level_programming" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tinyu01&repo=alx-low_level_programming&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Tinyu01/alx-higher_level_programming" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tinyu01&repo=alx-higher_level_programming&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Tinyu01/alx-higher_level_programming" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tinyu01&repo=alx-higher_level_programming&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Tinyu01/Full_Stack_Html" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tinyu01&repo=Full_Stack_Html&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/tinyu01"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/tinyu01"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
